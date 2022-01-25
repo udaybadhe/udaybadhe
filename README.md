@@ -15,7 +15,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/icons8-css3%20.svg" width="40">
   <img src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/icons8-javascript.svg" width="40">
   <img src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/icons8-git.svg" width="40">
-  <img src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/icons8-heroku.svg" width="40">
   <img src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/icons8-visual-studio-code-2019.svg" width="40">
   <img src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/icons8-linux-96.png" width="40">
 </p>
