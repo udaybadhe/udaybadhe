@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m a backend Devloper
 - 👯 I’m looking to collaborate on Web dev
 
 ### Languages and Tools:
