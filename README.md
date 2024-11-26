@@ -1,9 +1,5 @@
 # Hello, I'm Uday Badhe! 👋
 
-<div align="center">
-  <img src="/placeholder.svg?height=200&width=200" alt="Glitched Human Being" width="200" height="200" />
-</div>
-
 ## 🚀 About Me
 
 I'm not just a developer; I'm a **Glitched Human Being** exploring the digital realm! Currently, I'm crafting web experiences with Node.js and Express, while juggling databases like a tech wizard.
@@ -31,12 +27,6 @@ I'm not just a developer; I'm a **Glitched Human Being** exploring the digital r
 2. **Google Drive File Upload** - A script for uploading files to Google Drive using the Google Drive API.
 3. **Python Image to Text Converter** - A Python script that uses Pytesseract to convert images to text.
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="/placeholder.svg?height=180&width=400" alt="Uday's GitHub Stats" />
-</div>
-
 ## 🎯 Current Goals
 
 - Master the art of writing bug-free code (a developer can dream, right?)
@@ -46,8 +36,6 @@ I'm not just a developer; I'm a **Glitched Human Being** exploring the digital r
 ## 🎉 Fun Facts
 
 - I can debug code faster than I can find matching socks
-- My coffee consumption directly correlates with my commit frequency
-- I believe semicolons are just winky faces for your code
 
 ## 🤝 Let's Connect!
 
