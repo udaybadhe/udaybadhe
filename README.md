@@ -2,12 +2,11 @@
 
 ## 🚀 About Me
 
-I'm not just a developer; I'm a **Glitched Human Being** exploring the digital realm! Currently, I'm crafting web experiences with Node.js and Express, while juggling databases like a tech wizard.
+I'm not just a developer; I'm a **Glitched Human Being** exploring the digital realm!
 
 - 🌱 Always learning, always growing
-- 💾 Database juggler (MySQL, MongoDB, Redis)
-- 🛠️ Building RESTful APIs and scalable backend solutions
-- 🎭 Part-time code poet, full-time problem solver
+- 💾 I use MySQL and MongoDB for databases, and I only use Redis when necessary.
+- 🛠️ Building RESTful APIs and somewhat scalable backend solutions
 
 ## 🛠️ Tech Stack
 
