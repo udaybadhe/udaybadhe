@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-I'm not just a developer; I'm a **Glitched Human Being** exploring the digital realm!
+I am a vibe coder :)
 
-- 🌱 Always learning, always growing
+- 🌱 ChatGpting something
 - 💾 I use MySQL and MongoDB for databases, and I only use Redis when necessary.
 - 🛠️ Building RESTful APIs and somewhat scalable backend solutions
 
