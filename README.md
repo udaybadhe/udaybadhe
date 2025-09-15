@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a vibe coder :)
+I am a vibe coder :')
 
 - 🌱 ChatGpting something
 - 💾 I use MySQL and MongoDB for databases, and I only use Redis when necessary.
